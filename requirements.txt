@@ -1,0 +1,5 @@
+numpy
+matplotlib
+tensorflow<2.11
+gymnasium
+flappy-bird-gymnasium

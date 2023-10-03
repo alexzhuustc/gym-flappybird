@@ -4,7 +4,7 @@
 
 本项目附带一个我预训练好的一个模型，可以通过运行```bird_play_pretrain.py```体验效果，免去数个小时的训练时间。
 
-<img src="dqn.gif" alt="dqn" style="zoom:50%;" />
+<img src="dqn.gif" alt="dqn" />
 
 
 

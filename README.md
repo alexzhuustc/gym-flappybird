@@ -4,11 +4,17 @@
 
 本项目附带一个我预训练好的一个模型，可以通过运行```bird_play_pretrain.py```体验效果，免去数个小时的训练时间。
 
-<img src="dqn.gif" alt="dqn"  />
+<img src="dqn.gif" alt="dqn" style="zoom:50%;" />
 
 
 
-在运行或训练前，你需要先配置好python+tensorflow环境。详见下节“环境准备”。
+训练大约需要2个小时（硬件：12600H + RTX 4060）。前1个小时，小鸟很容易死，卡在第一根管子。大约1.5小时后，小鸟技能出现突变，突然就玩得很好了。
+
+<img src="score.png" style="zoom:67%;" />
+
+
+
+你可以自己训练。在运行或训练前，你需要先配置好python+tensorflow环境。详见下节“环境准备”。
 
 
 
